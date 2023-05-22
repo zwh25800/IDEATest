@@ -1,4 +1,3 @@
-# 定义目标文件 "main"
 # 该目标依赖于目标文件 "math.o" 和 "main.o"
 # 通过gcc链接生成可执行文件 "main"
 main: math.o main.o
